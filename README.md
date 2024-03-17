@@ -9,15 +9,15 @@ Installations :
 
 Open a Terminal
 Windows :
-- pip install tkinter
+- "pip install tkinter"
 Linux : 
-- sudo python3 -m pip install tkinter
+- "sudo python3 -m pip install tkinter"
 
 How to use it :
 Launch the script by the Terminal 
-Type : cd /directory/to/the/script/
+Type : "cd /directory/to/the/script/"
 Windows : 
-- python ToDoList.py
+- "python ToDoList.py"
 Linux
-- python3 ToDoList.py
+- "python3 ToDoList.py"
 
